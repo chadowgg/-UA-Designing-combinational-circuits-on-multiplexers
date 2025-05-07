@@ -38,3 +38,4 @@ s = log₂(n) адресних входів
 | 1      | 0      | C     |
 | 1      | 1      | D     |
 
+![](Functional-diagrams-of-multiplexers.png)
