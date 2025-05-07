@@ -1,1 +1,1 @@
-# -UA-Designing-combinational-circuits-on-multiplexers
+# Тема: Проектування комбінаційних схем на мультиплексорах
